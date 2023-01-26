@@ -11,7 +11,7 @@ Below are some curated examples of code that I have written and projects I have 
 
 Here is a cool project that I can share, a nice self-contained one. You've heard of the [[Monty-Hall problem]](https://en.wikipedia.org/wiki/Monty_Hall_problem) right? Of course you have, I knew you were a smart cookie. Well this is a very quick n' dirty program that simulates that problem being played a bunch of times, demonstrating that switching your door is the best way to find the goat.
 
-[monty-hall.rs](https://github.com/paulhazen/paulhazen/code-samples/rust/rust-example.rs)
+[monty-hall.rs](https://github.com/paulhazen/paulhazen/code-samples/rust/monty-hall.rs)
 
 #### Chess Data Parsing (Python):
 
