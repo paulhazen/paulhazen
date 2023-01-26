@@ -1,7 +1,12 @@
 ## 👋 Hello! Thank you for visiting my code samples!
 
 I'm currently a Senior studying Computer Science and Machine Learning at DigiPen Institute of Technology.
-Below are some curated examples of code that I have written and projects I have had the privilege of working on
+
+[My resume](https://github.com/paulhazen/paulhazen/blob/main/PaulHazen%20-%20Resume.pdf)
+
+[LinkedIn](https://linkedin.com/in/paulandersonhazen)
+
+Below are some curated examples of code that I have written and projects I have had the privilege of working on.
 
 ### [Click here to see the game projects I've worked on!](https://github.com/paulhazen/paulhazen/blob/main/AcademicGameProjects.md)
 
@@ -17,7 +22,7 @@ Here is a cool project that I can share, a nice self-contained one. You've heard
 
 This is a function that I extracted with permission from a project I worked on at DigiPen. The intent was to create a neural network that had a neuron for each place on a chess board. We then took as much data as we could find about chess matches, and ran them through our model.
 
-IIRC, this particular function helps to extract some of the meta-data about board state; but it's a good example of well-documented python code that (hopefully) won't put you to sleep while reading, and it shows my thought process a bit.
+This particular function helps to extract some of the meta-data about board state; it's a decent example of well-documented python code that (hopefully) won't put you to sleep while reading, and it shows my thought process a bit.
 
 [python-example.py](https://github.com/paulhazen/paulhazen/blob/main/code-samples/python/python-example.py)
 
