@@ -1,7 +1,24 @@
-UNDER CONSTRUCTION
+Hi! Welcome to my code samples and various projects page
 
-TODO:
-- Post Resume
-- LinkedIn
-- Game Projects (highlight custom engine projects over Divergence)
-- Identify good code code samples
+I'm currently a Senior studying Computer Science and Machine Learning at DigiPen Institute of Technology.
+
+Below are some curated examples of code that I have written:
+
+## Monty-Hall Rust
+
+Here is a cool project that I can share, a nice self-contained one. You've heard of the [[Monty-Hall problem]](https://en.wikipedia.org/wiki/Monty_Hall_problem) right? Of course you have, I knew you were a smart cookie. Well this is a very quick n' dirty program that simulates that problem being played a bunch of times, demonstrating that switching your door is the best way to find the goat.
+
+[[monty-hall]](https://github.com/paulhazen/paulhazen/code-samples/rust/rust-example.rs)
+
+## Chess Data Parsing Python
+
+This is a function that I extracted with permission from a project I worked on at DigiPen. The intent was to create a neural network that had a neuron for each place on a chess board. We then took as much data as we could find about chess matches, and ran them through our model.
+
+IIRC, this particular function helps to extract some of the meta-data about board state; but it's a good example of well-documented python code that (hopefully) won't put you to sleep while reading, and it shows my thought process a bit.
+
+## Quicksort CPP
+
+Due to their nature as academic projects, most of the interesting things I do I can't share here, so here's a quicksort implementation that's like all the other ones you've ever seen. It's not interesting. I should really come up with something cute to use as an example - maybe I'll make a tic-tac-toe game or something over the next weekend.
+
+[[quicksort.h]](https://github.com/paulhazen/paulhazen/code-samples/quicksort.h)
+[[quicksort.pp]](https://github.com/paulhazen/paulhazen/code-samples/quicksort.cpp)
