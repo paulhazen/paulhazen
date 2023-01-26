@@ -2,7 +2,7 @@
 
 I'm currently a Senior studying Computer Science and Machine Learning at DigiPen Institute of Technology.
 
-[My resume](https://github.com/paulhazen/paulhazen/blob/main/PaulHazen%20-%20Resume.pdf)
+[Resumé](https://github.com/paulhazen/paulhazen/blob/main/PaulHazen%20-%20Resume.pdf)
 
 [LinkedIn](https://linkedin.com/in/paulandersonhazen)
 
@@ -14,7 +14,7 @@ Below are some curated examples of code that I have written and projects I have 
 
 #### Monty-Hall (Rust):
 
-Here is a cool project that I can share, a nice self-contained one. You've heard of the [[Monty-Hall problem]](https://en.wikipedia.org/wiki/Monty_Hall_problem) right? Of course you have, I knew you were a smart cookie. Well this is a very quick n' dirty program that simulates that problem being played a bunch of times, demonstrating that switching your door is the best way to find the goat.
+Here is a cool project that I can share, a nice self-contained one. You've heard of the [Monty-Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) right? Of course you have, I knew you were a smart cookie. Well this is a very quick n' dirty program that simulates that problem being played a bunch of times, demonstrating that switching your door is the best way to find the goat.
 
 [monty-hall.rs](https://github.com/paulhazen/paulhazen/blob/main/code-samples/rust/monty-hall.rs)
 
